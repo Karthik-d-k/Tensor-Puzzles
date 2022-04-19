@@ -1,6 +1,6 @@
 jupytext
 torchtyping
 hypothesis
-torch==1.10
+torch==1.10.0
 numpy
 pytest
